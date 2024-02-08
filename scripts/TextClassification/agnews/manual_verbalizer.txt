@@ -1,0 +1,5 @@
+politics,government,diplomatic,law
+sports,athletics,gymnastics,sportsman
+business,commerce,trade,market,retail
+technology,engineering,science,biotechnology
+

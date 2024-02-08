@@ -1,0 +1,84 @@
+load_model_time:  116.24489665031433
+1:
+snippets_verbalizer_time:  9.454487800598145
+snippets_alltime:  742.6092245578766
+
+2:
+snippets_verbalizer_time:  8.162219047546387
+snippets_alltime:  738.9808502197266
+
+3:
+snippets_verbalizer_time:  9.015921115875244
+snippets_alltime:  735.0223534107208
+
+4:
+snippets_verbalizer_time:  8.407682657241821
+snippets_alltime:  730.1736090183258
+
+5:
+snippets_verbalizer_time:  8.583204746246338
+snippets_alltime:  733.2118237018585
+
+6:
+snippets_verbalizer_time:  8.712097883224487
+snippets_alltime:  734.9862399101257
+
+7:
+snippets_verbalizer_time:  8.48776888847351
+snippets_alltime:  733.9929778575897
+
+8:
+snippets_verbalizer_time:  8.684828281402588
+snippets_alltime:  735.1217696666718
+
+9:
+snippets_verbalizer_time:  8.862274169921875
+snippets_alltime:  732.8108806610107
+
+
+10:
+snippets_verbalizer_time:  8.520564794540405
+snippets_alltime:  731.4206092357635
+
+11:
+snippets_verbalizer_time:  8.68453073501587
+snippets_alltime:  740.9516196250916
+
+12:
+snippets_verbalizer_time:  8.72941541671753
+snippets_alltime:  734.0733280181885
+
+
+13:
+snippets_verbalizer_time:  9.017738342285156
+snippets_alltime:  733.8805267810822
+
+14:
+snippets_verbalizer_time:  8.466102123260498
+snippets_alltime:  741.1005394458771
+
+
+15:
+snippets_verbalizer_time:  9.334808588027954
+snippets_alltime:  734.0710027217865
+
+16:
+snippets_verbalizer_time:  8.506874084472656
+snippets_alltime:  733.455619096756
+
+17:
+snippets_verbalizer_time:  8.890896081924438
+snippets_alltime:  736.2887260913849
+
+18:
+snippets_verbalizer_time:  8.80897068977356
+snippets_alltime:  740.5053970813751
+
+19:
+snippets_verbalizer_time:  8.465262174606323
+snippets_alltime:  732.2748758792877
+
+20:
+snippets_verbalizer_time:  9.121448993682861
+snippets_alltime:  744.1968176364899
+all_time:  14875.404682636261

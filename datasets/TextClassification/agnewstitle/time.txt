@@ -1,0 +1,75 @@
+load_model_time:  114.74586725234985
+1:
+agnewstitle_verbalizer_time:  4.701986789703369
+agnewstitle_alltime:  405.83876061439514
+2:
+agnewstitle_verbalizer_time:  5.123081922531128
+agnewstitle_alltime:  406.59379172325134
+3:
+agnewstitle_verbalizer_time:  4.5662760734558105
+agnewstitle_alltime:  403.6373767852783
+4:
+agnewstitle_verbalizer_time:  4.6080732345581055
+agnewstitle_alltime:  406.0738799571991
+5:
+agnewstitle_verbalizer_time:  4.753736734390259
+agnewstitle_alltime:  407.8774964809418
+6:
+agnewstitle_verbalizer_time:  4.577160835266113
+agnewstitle_alltime:  402.8328938484192
+7:
+agnewstitle_verbalizer_time:  4.112165212631226
+agnewstitle_alltime:  408.90782356262207
+8:
+agnewstitle_verbalizer_time:  4.540032863616943
+agnewstitle_alltime:  404.20476508140564
+9:
+agnewstitle_verbalizer_time:  4.2295050621032715
+agnewstitle_alltime:  407.20071268081665
+10:
+agnewstitle_verbalizer_time:  4.575815200805664
+agnewstitle_alltime:  404.3819839954376
+
+all_time:  4192.311170101166
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_0.csv
+Acc: 0.8157894736842105	Pre: 0.8172882778924587	Rec: 0.8157894736842105	F1s: 0.8121409353847963
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_1.csv
+Acc: 0.8105263157894737	Pre: 0.8148312458889151	Rec: 0.8105263157894737	F1s: 0.8110779970223416
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_2.csv
+Acc: 0.8315789473684211	Pre: 0.834475131249882	Rec: 0.8315789473684211	F1s: 0.8306262544917576
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_3.csv
+Acc: 0.8184210526315789	Pre: 0.8199530644087094	Rec: 0.8184210526315789	F1s: 0.8178434121361714
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_4.csv
+Acc: 0.8315789473684211	Pre: 0.8432024384876312	Rec: 0.8315789473684211	F1s: 0.8333507438572709
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_5.csv
+Acc: 0.8263157894736842	Pre: 0.8279530456324327	Rec: 0.8263157894736842	F1s: 0.8252668618462975
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_6.csv
+Acc: 0.843421052631579	Pre: 0.8457236133351956	Rec: 0.843421052631579	F1s: 0.8437562304245847
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_7.csv
+Acc: 0.8328947368421052	Pre: 0.8334730384643311	Rec: 0.8328947368421052	F1s: 0.8317829582193862
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_8.csv
+Acc: 0.8394736842105263	Pre: 0.8384980390362632	Rec: 0.8394736842105263	F1s: 0.8384554732268941
+
+====================
+dataset agnewstitle	temp 0	seed 115	shot 20	verb upt	cali False	filt none	maxsplit -1	kptw_lr 0.06	test: ./datasets/TextClassification/agnewstitle/test_9.csv
+Acc: 0.8368421052631579	Pre: 0.8472407336547989	Rec: 0.8368421052631579	F1s: 0.8378650411644378
+
+avg: 0.8268
